@@ -32,10 +32,15 @@ Each page of the book is indexed with its corresponding page number, enabling pr
 **Requirements**
 
 Python 3.x
+
 Libraries:
+
 sentence-transformers (for generating sentence embeddings)
+
 faiss-cpu or faiss-gpu (for efficient similarity search)
+
 openai (for querying the OpenAI API)
+
 FPDF (for creating PDF summaries)
 
 For Dependency Installation, Plz run following requirements.txt
